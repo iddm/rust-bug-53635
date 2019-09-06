@@ -1,0 +1,11 @@
+[package]
+name = "bug"
+version = "0.1.0"
+authors = ["Victor Polevoy <fx@thefx.co>"]
+edition = "2018"
+
+#[dev-dependencies]
+#rocket = "0.4.0"
+
+[dependencies]
+rocket = "0.4.0"
